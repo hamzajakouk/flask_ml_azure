@@ -1,5 +1,5 @@
-trigger:
-- master
+name: mlop
+on: [push]
 
 variables:
   azureServiceConnectionId: 'df9170e4-12ed-498f-93e9-79c1e9b9bd59'
